@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Night Client",
+  "name": "Night Client",
+  "description": "QOL modification for Minecraft Forge",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/night0721/NightClient",
+  "updateUrl": "https://github.com/night0721/NightClient/releases",
+  "authorList": ["Night"],
+  "credits": "Night",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
