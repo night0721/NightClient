@@ -1,1 +1,1 @@
-QOL modification for Minecraft ForgeQOL modification
+QOL modification for Minecraft Forge
